@@ -1,5 +1,26 @@
-💫 # About Me:
-👋 Hey, I'm Tejaswi Mahadev! 🚀<br>AI/ML Innovator | Full-Stack Explorer | Problem Solver<br>"The Human Behind The Code"<br>By day, I transform sprite into code. By night... I mostly do the same thing, just with different pajamas. ☕💻<br><br>🛠 Tech Stack & Tools<br>🖥 Languages I Speak<br>🖥️ Computer: Python 🐍 | JavaScript ⚡ | Java ☕ | C 🔵<br>🚀 In Progress: C++ (currently at the "why isn't this working?" stage)<br><br>🤖 AI/ML & Data Science<br>🔹 Deep Learning: TensorFlow | PyTorch | CNN | UNet | ResNet<br>🔹 NLP & LLMs: Hugging Face | LangChain | Azure OpenAI | Gemini AI<br>🔹 Machine Learning: Decision Trees 🌳 | SVM 📊 | Generative AI<br><br>🌐 Web & App Development<br>🔹 Frontend: React.js | Next.js | Streamlit | Dash<br>🔹 Backend & Databases: Firebase | MongoDB | SQLite<br><br>🛠 Tools I Wield<br>🔹 IDE & Dev Environments: VS Code (with way too many extensions 🤯)<br>🔹 Version Control: Git (still googling how to undo commits 🤦‍♂️)<br>🔹 Cloud: Google Cloud Platform ☁️ 
+#💫About Me:
+
+**👋 Hey, I'm Tejaswi Mahadev! 🚀<br>AI/ML Innovator | Full-Stack Explorer | Problem Solver**<br>
+
+"The Human Behind The Code"<br>
+By day, I transform sprite into code. By night... I mostly do the same thing, just with different pajamas. ☕💻<br>
+
+<br>**🛠 Tech Stack & Tools**<br>
+
+🖥** Languages I Speak**<br>
+🖥️** Computer**: Python 🐍 | JavaScript ⚡ | Java ☕ | C 🔵<br>
+🚀 **In Progress**: C++ (currently at the "why isn't this working?" stage)<br><br>
+
+🤖 **AI/ML & Data Science**<br>
+🔹 Deep Learning: TensorFlow | PyTorch | CNN | UNet | ResNet<br>
+🔹 NLP & LLMs: Hugging Face | LangChain | Azure OpenAI | Gemini AI<br>
+🔹 Machine Learning: Decision Trees 🌳 | SVM 📊 | Generative AI<br><br>
+🌐 Web & App Development<br>
+🔹 Frontend: React.js | Next.js | Streamlit | Dash<br>
+🔹 Backend & Databases: Firebase | MongoDB | SQLite<br><br>🛠 Tools I Wield<br>
+🔹 IDE & Dev Environments: VS Code (with way too many extensions 🤯)<br>
+🔹 Version Control: Git (still googling how to undo commits 🤦‍♂️)<br>
+🔹 Cloud: Google Cloud Platform ☁️ 
 
 
 🌐 ## Socials:
