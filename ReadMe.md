@@ -1,6 +1,8 @@
 
 # 👋 Hey, I'm Tejaswi Mahadev! 🚀<br>
-AI/ML Innovator | Full-Stack Explorer | Problem Solver<br>"The Human Behind The Code"<br>
+## AI/ML Innovator | Full-Stack Explorer | Problem Solver
+
+_"The Human Behind The Code"<br>_
 By day, I transform caffeine into code. By night... I mostly do the same thing, just with different pajamas. ☕💻<br>
 
  # 🛠 Tech Stack & Tools<br>
