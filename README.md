@@ -1,5 +1,3 @@
-💫 About Me :
-
 **👋 Hey, I'm Tejaswi Mahadev! 🚀<br>AI/ML Innovator | Full-Stack Explorer | Problem Solver**<br>
 
 "The Human Behind The Code"<br>
