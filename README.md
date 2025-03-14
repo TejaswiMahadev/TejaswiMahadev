@@ -1,4 +1,4 @@
-#💫About Me:
+💫#About Me :
 
 **👋 Hey, I'm Tejaswi Mahadev! 🚀<br>AI/ML Innovator | Full-Stack Explorer | Problem Solver**<br>
 
@@ -15,9 +15,12 @@ By day, I transform sprite into code. By night... I mostly do the same thing, ju
 🔹 Deep Learning: TensorFlow | PyTorch | CNN | UNet | ResNet<br>
 🔹 NLP & LLMs: Hugging Face | LangChain | Azure OpenAI | Gemini AI<br>
 🔹 Machine Learning: Decision Trees 🌳 | SVM 📊 | Generative AI<br><br>
+
 🌐 Web & App Development<br>
 🔹 Frontend: React.js | Next.js | Streamlit | Dash<br>
-🔹 Backend & Databases: Firebase | MongoDB | SQLite<br><br>🛠 Tools I Wield<br>
+🔹 Backend & Databases: Firebase | MongoDB | SQLite<br><br>
+
+🛠 Tools I Wield<br>
 🔹 IDE & Dev Environments: VS Code (with way too many extensions 🤯)<br>
 🔹 Version Control: Git (still googling how to undo commits 🤦‍♂️)<br>
 🔹 Cloud: Google Cloud Platform ☁️ 
