@@ -16,7 +16,8 @@ By day, I transform caffeine into code. By night... I mostly do the same thing, 
 
  ## 🌐 Web & App Development<br>
 🔹 Frontend: React.js | Next.js | Streamlit | Dash<br>
-🔹 Backend & Databases: Firebase | MongoDB | SQLite<br><br>🛠 Tools I Wield<br>
+🔹 Backend & Databases: Firebase | MongoDB | SQLite<br>
+## 🛠 Tools I Wield<br>
 🔹 IDE & Dev Environments: VS Code (with way too many extensions 🤯)<br>
 🔹 Version Control: Git (still googling how to undo commits 🤦‍♂️)<br>
 🔹 Cloud: Google Cloud Platform ☁️ 
