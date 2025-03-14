@@ -3,7 +3,7 @@
 AI/ML Innovator | Full-Stack Explorer | Problem Solver<br>"The Human Behind The Code"<br>
 By day, I transform caffeine into code. By night... I mostly do the same thing, just with different pajamas. ☕💻<br>
 
-<br> # 🛠 Tech Stack & Tools<br>
+ # 🛠 Tech Stack & Tools<br>
 
 ## 🖥 Languages I Speak<br>
 🖥️ Computer: Python 🐍 | JavaScript ⚡ | Java ☕ | C 🔵<br>
