@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logoColor=white" alt="Java"/>
 </div>
 
 <h2 align="center" class="section-heading">🤖 AI/ML Frameworks & Libraries</h2>
