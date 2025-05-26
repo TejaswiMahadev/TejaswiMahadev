@@ -6,21 +6,18 @@
 <div align="center">
     <h2>🚀 About Me</h2>
 <!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
-    <p>Hi there 👋 I'm **Tejaswi Mahadev** — a Final year B.Tech Computer Science student specializing in **Artificial Intelligence and Machine Learning**.
-
-🎓 I'm passionate about building intelligent systems that solve real-world problems</p>
+    <p>I'm a Software Engineering specialist with a passion for fusing software development with operations. My technical range is broad, covering everything from cloud platforms and containerization to CRM systems and 3D modeling.</p>
 </div>
 
 <div align="center">
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
-<p> To connect with me, you can find my professional profile and contact details on LinkedIn, or explore more about my projects and interests through my Linktree. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together! </p>
+<p> To connect with me, you can find my professional profile and contact details on LinkedIn, or explore more about my projects and interests through my GitHub. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together! </p>
 <div align="center">
   <a href="https://www.linkedin.com/in/tejaswi-mahadev/">
-    <img src="https://img.shields.io/badge/tejaswi-mahadev?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/TejaswiMahadev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  </a>
-<a href="https://github.com/TejaswiMahadev/TejaswiMahadev" target="_blank">
-    <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
+<a href="https://github.com/TejaswiMahadev" target="_blank">
+    <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=TejaswiMahadev&style=for-the-badge" alt="Profile views" />
 </div>
@@ -95,17 +92,17 @@
 <p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
  <table align="center" width="100%" height="100%" >
     <tr>
-       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zanepearton&theme=github_dark" alt="Zane's GitHub Stats"/></td>   
-       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=zanepearton&theme=merko" alt="Zane's Contribution Streak"/></td>
+       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TejaswiMahadev&theme=github_dark" alt="Tejaswi's GitHub Stats"/></td>   
+       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=TejaswiMahadev&theme=merko" alt="Tejaswi's Contribution Streak"/></td>
     </tr>
  </table>
 
  <table align="center" width="100%" height="100%" >
     <tr>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zanepearton&theme=github_dark" alt="Zane's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zanepearton&theme=github_dark&utcOffset=10" alt="Zane's GitHub Stats"/>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zanepearton&theme=github_dark" alt="Zane's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zanepearton&theme=github_dark" alt="Zane's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TejaswiMahadev&theme=github_dark" alt="Tejaswi's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TejaswiMahadev&theme=github_dark&utcOffset=10" alt="Tejaswi's GitHub Stats"/>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TejaswiMahadev&theme=github_dark" alt="Tejaswi's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TejaswiMahadev&theme=github_dark" alt="Tejaswi's GitHub Stats"/></td>
     </tr>
  </table>
 </div>
