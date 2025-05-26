@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/tejaswi-mahadev?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   </a>
-<a href="https://github.com/ZanePearton/ZanePearton" target="_blank">
+<a href="https://github.com/TejaswiMahadev/TejaswiMahadev" target="_blank">
     <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=ZanePearton&style=for-the-badge" alt="Profile views" />
