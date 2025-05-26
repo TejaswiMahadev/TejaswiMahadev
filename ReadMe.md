@@ -32,13 +32,10 @@
 <p> As an AI/ML engineer, I've mastered programming languages that are essential for data science, machine learning research, and production AI systems. These languages form the foundation of my toolkit for building everything from research prototypes to scalable AI applications.</p>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="Julia"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" alt="Scala"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java"/>
 </div>
 
 <h2 align="center" class="section-heading">🤖 AI/ML Frameworks & Libraries</h2>
@@ -92,7 +89,7 @@
 </div>
 
 <h2 align="center" class="section-heading">🧠 AI Specializations</h2>
-<p>My expertise spans multiple AI domains, from computer vision and natural language processing to generative AI and reinforcement learning. I specialize in developing end-to-end AI solutions that bridge research and production, creating intelligent systems that deliver real-world impact.</p>
+<p>My expertise spans multiple AI domains, from computer vision and natural language processing to generative AI and deep learning. I specialize in developing end-to-end AI solutions that bridge research and production, creating intelligent systems that deliver real-world impact.</p>
 <div align="center">
   <img src="https://img.shields.io/badge/Computer%20Vision-FF6B6B?style=for-the-badge" alt="Computer Vision"/>
   <img src="https://img.shields.io/badge/Natural%20Language%20Processing-4ECDC4?style=for-the-badge" alt="NLP"/>
