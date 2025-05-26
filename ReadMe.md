@@ -20,13 +20,6 @@
 </a>
 <img src="https://komarev.com/ghpvc/?username=TejaswiMahadev&style=for-the-badge" alt="Profile views" />
 </div>
-
-<div align="center">
-  <h2>🚀 Github Commits</h2>
-    <p>This section highlights my daily coding activity, showcasing the AI/ML repositories and research projects I am currently working on. Each commit represents progress in model development, experimentation, or deployment - reflecting my commitment to advancing the field of artificial intelligence through continuous learning and contribution.</p>
- <img src="https://github.com/TejaswiMahadev/TejaswiMahadev/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
 <p> As an AI/ML engineer, I've mastered programming languages that are essential for data science, machine learning research, and production AI systems. These languages form the foundation of my toolkit for building everything from research prototypes to scalable AI applications.</p>
 <div align="center">
