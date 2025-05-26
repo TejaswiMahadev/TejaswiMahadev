@@ -24,13 +24,7 @@
 <div align="center">
   <h2>🚀 Github Commits</h2>
     <p>This section highlights my daily coding activity, showcasing the AI/ML repositories and research projects I am currently working on. Each commit represents progress in model development, experimentation, or deployment - reflecting my commitment to advancing the field of artificial intelligence through continuous learning and contribution.</p>
-  
-  <!-- Snake Animation - Updated with correct paths -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TejaswiMahadev/TejaswiMahadev/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TejaswiMahadev/TejaswiMahadev/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TejaswiMahadev/TejaswiMahadev/output/github-contribution-grid-snake.svg">
-  </picture>
+ <img src="https://github.com/TejaswiMahadev/TejaswiMahadev/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
