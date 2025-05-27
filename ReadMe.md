@@ -21,7 +21,7 @@
 <img src="https://komarev.com/ghpvc/?username=TejaswiMahadev&style=for-the-badge" alt="Profile views" />
 </div>
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
-<p> As an AI/ML engineer, I've mastered programming languages that are essential for data science, machine learning research, and production AI systems. These languages form the foundation of my toolkit for building everything from research prototypes to scalable AI applications.</p>
+<p> As an AI/ML engineer, I've gained proficieny in programming languages that are essential for data science, machine learning research, and production AI systems. These languages form the foundation of my toolkit for building everything from research prototypes to scalable AI applications.</p>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
