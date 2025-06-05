@@ -93,22 +93,3 @@
   <img src="https://img.shields.io/badge/Time%20Series%20Analysis-FF7675?style=for-the-badge" alt="Time Series"/>
   <img src="https://img.shields.io/badge/Recommendation%20Systems-00B894?style=for-the-badge" alt="Recommendation Systems"/>
 </div>
-
-<div align="center">
-<h2 align="center" class="section-heading"> 💻 Github Stats</h2>
-<p>Peek into my GitHub stats to see how I balance algorithms, research, and real-world AI implementations! These metrics reflect my journey in contributing to the open-source AI community and building intelligent systems.</p>
- <table align="center" width="100%" height="100%" >
-    <tr>
-       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TejaswiMahadev&theme=github_dark" alt="Tejaswi's GitHub Stats"/></td>   
-       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=TejaswiMahadev&theme=merko" alt="Tejaswi's Contribution Streak"/></td>
-    </tr>
- </table>
-
- <table align="center" width="100%" height="100%" >
-    <tr>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TejaswiMahadev&theme=github_dark" alt="Tejaswi's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TejaswiMahadev&theme=github_dark" alt="Tejaswi's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TejaswiMahadev&theme=github_dark" alt="Tejaswi's GitHub Stats"/></td>
-    </tr>
- </table>
-</div>
