@@ -4,6 +4,7 @@
     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
 </div>
 
+
 <div align="center">
     <h2>🚀 About Me</h2>
     <p>I'm an AI/ML Engineer with expertise in building intelligent systems and deploying machine learning solutions at scale. My focus spans deep learning, computer vision, natural language processing, and MLOps - transforming complex data into actionable AI-powered applications that solve real-world problems.</p>
